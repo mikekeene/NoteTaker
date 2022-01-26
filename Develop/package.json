@@ -6,9 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikekeene/NoteTaker.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikekeene/NoteTaker.git/issues"
+  },
+  "homepage": "https://github.com/mikekeene/NoteTaker#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.17.1"
   }
 }

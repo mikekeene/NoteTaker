@@ -1,9 +1,14 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
-
-
-
+{
+    "notes": [
+      {
+        "title": "Finish Module",
+        "text": "Learn",
+        "id": "0"
+      },
+      {
+        "title": "Start Challenge",
+        "text": "Due Sunday at 11:59pm",
+        "id": "1"
+      }
+    ]
+  }

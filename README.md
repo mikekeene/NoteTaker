@@ -1,2 +1,7 @@
-# Note Taker Starter Code# Note-Taker
 # NoteTaker
+
+## Description
+### Application that allows users to read and write notes
+
+## License
+### MIT
