@@ -1,14 +1,17 @@
-{
-    "notes": [
-      {
-        "title": "Finish Module",
-        "text": "Learn",
-        "id": "0"
-      },
-      {
-        "title": "Start Challenge",
-        "text": "Due Sunday at 11:59pm",
-        "id": "1"
-      }
-    ]
+[
+  {
+    "title": "Finish Module",
+    "text": "Learn",
+    "id": "0"
+  },
+  {
+    "title": "Start Challenge",
+    "text": "Due Sunday at 11:59pm",
+    "id": "1"
+  },
+  {
+    "title": "Write notes",
+    "text": "s",
+    "id": 4
   }
+]
