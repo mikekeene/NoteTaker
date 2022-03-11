@@ -4,14 +4,14 @@ const PORT = process.env.PORT || 3001;
 const fs = require('fs');
 const path = require('path');
 
-const { notes } = require('./data/db.json');
+const { notes } = require('./db/db.json');
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static('public'));
 
 app.get('/api/notes', (req, res) => {
-    res.json(allNotes.slice(1));
+    res.json(notes);
 });
 
 app.get('/', (req, res) => {
