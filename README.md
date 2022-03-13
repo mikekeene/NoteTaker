@@ -16,7 +16,9 @@ A note taking application built using Express.js and Node.js.
 * npm start
 ## Usage
 ### Screenshots
+<img width="1190" alt="notetaker1" src="https://user-images.githubusercontent.com/93222787/158040430-4e067751-1d5f-428a-a366-f88a6acbe156.png">
 
+<img width="1189" alt="notetaker2" src="https://user-images.githubusercontent.com/93222787/158040431-9759f465-46a0-4f33-aa6f-fb5f3c247464.png">
 
 Heroku Link: 
 https://mysterious-tor-38630.herokuapp.com/ 
